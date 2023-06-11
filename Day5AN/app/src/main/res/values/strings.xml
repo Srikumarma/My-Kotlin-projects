@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Day5AN</string>
+    <string name="done">add</string>
+    <string name="Subtract">subtract</string>
+    <string name="Multiply">multiply</string>
+    <string name="Divide">divide</string>
+    <string name="total">Total</string>
+    <string name="Calculator">Calculator</string>
+    <string name="number_1">number_1</string>
+    <string name="number_2">number_2</string>
+    <string name="clear">clear</string>
+</resources>
